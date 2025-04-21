@@ -57,7 +57,7 @@ tic-tac-toe/
 
 ## 💬 Feedback
 
-Found a bug or have a suggestion? Feel free to [open an issue]or submit a pull request.
+Found a bug or have a suggestion? Feel free to open an issue or submit a pull request.
 
 ---
 
