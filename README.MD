@@ -62,4 +62,4 @@ Found a bug or have a suggestion? Feel free to open an issue or submit a pull re
 ---
 
 Enjoy playing! 🎮
-```
+---
